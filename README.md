@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-##I am ✨ _Ihor-Kon_ ✨ ##
+I am ✨ _Ihor-Kon_ ✨ 
 
 Python expert. I can transition your idea to a production-ready solution.
 
